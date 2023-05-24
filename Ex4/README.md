@@ -23,7 +23,8 @@ This repository contains the design files for an STM32 Development board created
 9. **Testing**: After assembly, perform thorough testing of the development board. Check for any short circuits, open connections, or incorrect component placements. Test the functionality and verify that the STM32 microcontroller and peripherals are working as expected.
 ## Output:
 
-![test (1)](https://github.com/Marinto-Richee/Embedded-System-Design/assets/65499285/fb30272a-77b2-4664-8cf1-085d9732aabc)
+![WhatsApp Image 2023-05-24 at 22 18 19](https://github.com/Fawziya20/Embedded_Board_Design/assets/75235022/9d8b84a7-061a-4980-a6bd-50838c6a782e)
+
 
 ## Result
 
